@@ -32,7 +32,7 @@ The course emphasizes **hands-on proficiency** with Python, Git, Jupyter, and mo
 ## Course Schedule
 - **Lectures**: Tuesdays & Thursdays, 11:00 AM – 12:15 PM @ SHA 110  
 - **Discussion Sections**: Led by TAs, held in CDS classrooms  
-- **Semester**: Fall 2024  
+- **Semester**: Fall 2025
 
 ---
 
